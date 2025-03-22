@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$PYTHONHASHSEED
+
+# Virtual environment
+venv/
+.env/
+
+# Generated dataset 
+truncated_text_dataset/
